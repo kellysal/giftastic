@@ -13,7 +13,7 @@ This assignment required me to use the GIPHY API to create a dynamic web page th
 3. Add your own item using the form on the right of the screen.
 
 *Click the following link to play the game!*
-https://kellysal.github.io/
+https://kellysal.github.io/giftastic/
 
 ## Built Using:
 *HTML
